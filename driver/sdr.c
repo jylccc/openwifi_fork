@@ -46,7 +46,7 @@
 
 // #include <linux/time.h>
 
-//#define IIO_AD9361_USE_PRIVATE_H_
+#define IIO_AD9361_USE_PRIVATE_H_
 #include <../../drivers/iio/adc/ad9361_regs.h>
 #include <../../drivers/iio/adc/ad9361.h>
 #include <../../drivers/iio/adc/ad9361_private.h>
